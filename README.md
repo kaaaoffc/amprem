@@ -19,7 +19,7 @@ Jalankan perintah berikut secara berurutan pada aplikasi Termux Anda:
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone [https://github.com/kaaaoffc/amprem.git](https://github.com/kaaaoffc/amprem.git)
+git clone https://github.com/kaaaoffc/amprem.git
 cd X-saturn
 pip install -r requirements.txt
 python main.py
